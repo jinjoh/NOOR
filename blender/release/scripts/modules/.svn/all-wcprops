@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/24138/trunk/blender/release/scripts/modules
+END
+bpy_sys.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23548/trunk/blender/release/scripts/modules/bpy_sys.py
+END
+dynamic_menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23765/trunk/blender/release/scripts/modules/dynamic_menu.py
+END
+bpy_ops.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/24138/trunk/blender/release/scripts/modules/bpy_ops.py
+END
+autocomplete.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23548/trunk/blender/release/scripts/modules/autocomplete.py
+END

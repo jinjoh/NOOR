@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/release/windows/inno
+END
+header.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/release/windows/inno/header.bmp
+END
+copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/release/windows/inno/copyright.txt
+END
+installer.ico
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/release/windows/inno/installer.ico
+END
+blender.iss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/release/windows/inno/blender.iss
+END
+installer.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/release/windows/inno/installer.bmp
+END

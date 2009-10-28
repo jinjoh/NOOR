@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/blender/verify/intern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-01-07T19:13:47.953844Z
+13161
+hos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BLO_verify.c
+file
+
+
+
+
+2009-10-28T17:04:53.000000Z
+eed04ff49c1e7e3131f4120b7d8de8d9
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:53.000000Z
+5d90b62084fa5f2d5542dd71a5fa6947
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

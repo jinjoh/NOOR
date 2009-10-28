@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/make/msvc_7_0
+END
+build_install_all.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/make/msvc_7_0/build_install_all.vcproj
+END
+extern.sln
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/make/msvc_7_0/extern.sln
+END

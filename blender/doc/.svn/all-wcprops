@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc
+END
+GPL-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/GPL-license.txt
+END
+README.windows-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/README.windows-gcc
+END
+doxygen.main
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/doxygen.main
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/Doxyfile
+END
+python-dev-guide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/python-dev-guide.txt
+END
+blender-cmake.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/blender-cmake.txt
+END
+interface_API.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/interface_API.txt
+END
+blender-scons-dev.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/blender-scons-dev.txt
+END
+BL-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/BL-license.txt
+END
+blender-scons.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/blender-scons.txt
+END
+bf-members.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/bf-members.txt
+END
+blender-guardedalloc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/blender-guardedalloc.txt
+END
+oldbugs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/doc/oldbugs.txt
+END

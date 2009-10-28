@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/bitstream/x86_asm
+END
+cbp_sse2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/bitstream/x86_asm/cbp_sse2.asm
+END
+cbp_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/bitstream/x86_asm/cbp_mmx.asm
+END

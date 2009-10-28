@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bf-blender/!svn/ver/24140/trunk/blender/source
+END
+nan_link.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/nan_link.mk
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/SConscript
+END
+nan_warn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/23381/trunk/blender/source/nan_warn.mk
+END
+nan_compile.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/24006/trunk/blender/source/nan_compile.mk
+END
+nan_subdirs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/nan_subdirs.mk
+END
+nan_definitions.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bf-blender/!svn/ver/23474/trunk/blender/source/nan_definitions.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bf-blender/!svn/ver/23666/trunk/blender/source/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/CMakeLists.txt
+END

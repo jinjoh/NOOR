@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/guardedalloc/make/msvc_7_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+guardedalloc.sln
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+55b1163422f43e3a428ac12671cb1ef8
+2003-03-18T19:27:13.000000Z
+520
+zuster
+has-props
+
+guardedalloc.vcproj
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+1c0d549f04f77adf88ad02e18a1690d9
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+has-props
+

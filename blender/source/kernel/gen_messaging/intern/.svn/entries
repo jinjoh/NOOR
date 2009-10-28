@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/kernel/gen_messaging/intern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-01-07T19:13:47.953844Z
+13161
+hos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+c061c10dbf92d7a2257d96c16181fd75
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+
+messaging.c
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+8df99a73a13d13d386a57724649d723a
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

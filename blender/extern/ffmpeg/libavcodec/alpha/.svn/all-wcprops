@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha
+END
+regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/regdef.h
+END
+simple_idct_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/simple_idct_alpha.c
+END
+mpegvideo_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/mpegvideo_alpha.c
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/asm.h
+END
+motion_est_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/motion_est_alpha.c
+END
+dsputil_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/dsputil_alpha.c
+END
+dsputil_alpha_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/dsputil_alpha_asm.S
+END
+motion_est_mvi_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/alpha/motion_est_mvi_asm.S
+END

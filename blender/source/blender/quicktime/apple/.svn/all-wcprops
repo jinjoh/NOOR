@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/quicktime/apple
+END
+quicktime_import.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/quicktime/apple/quicktime_import.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/quicktime/apple/Makefile
+END
+quicktime_export.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/quicktime/apple/quicktime_export.c
+END

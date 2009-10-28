@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/24117/trunk/blender/source/blender/editors/space_buttons
+END
+buttons_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23687/trunk/blender/source/blender/editors/space_buttons/buttons_ops.c
+END
+buttons_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/24117/trunk/blender/source/blender/editors/space_buttons/buttons_context.c
+END
+buttons_intern.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23559/trunk/blender/source/blender/editors/space_buttons/buttons_intern.h
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23587/trunk/blender/source/blender/editors/space_buttons/SConscript
+END
+buttons_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23996/trunk/blender/source/blender/editors/space_buttons/buttons_header.c
+END
+space_buttons.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/24091/trunk/blender/source/blender/editors/space_buttons/space_buttons.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/space_buttons/Makefile
+END

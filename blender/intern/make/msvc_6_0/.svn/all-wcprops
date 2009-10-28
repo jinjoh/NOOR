@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/make/msvc_6_0
+END
+build_install_all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/make/msvc_6_0/build_install_all.dsp
+END
+intern.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/make/msvc_6_0/intern.dsw
+END

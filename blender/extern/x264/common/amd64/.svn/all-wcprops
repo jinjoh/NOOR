@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64
+END
+deblock-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/deblock-a.asm
+END
+amd64inc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/amd64inc.asm
+END
+cpu-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/cpu-a.asm
+END
+quant-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/quant-a.asm
+END
+dct-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/dct-a.asm
+END
+predict-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/predict-a.asm
+END
+pixel-sse2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/pixel-sse2.asm
+END
+mc-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/mc-a.asm
+END
+mc-a2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/mc-a2.asm
+END
+pixel-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/x264/common/amd64/pixel-a.asm
+END

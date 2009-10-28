@@ -1,0 +1,118 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/guardedalloc
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-30T18:18:32.734621Z
+23570
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+test
+dir
+
+cpp
+dir
+
+BLO_sys_types.h
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+288a84731344a6ecd884c7fbf86ada5a
+2009-08-14T13:13:36.467124Z
+22452
+campbellbarton
+has-props
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+bd9aae1184dd4b9227f7e81791db00b7
+2009-09-05T01:58:02.640114Z
+23013
+jesterking
+has-props
+
+MEM_guardedalloc.h
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+9a71bd745ad8d79f010cdd536ea46cdf
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+make
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+24aac703c08fc93fa20f78d7cf702554
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+71a2901412a0ef44502834450aeaeef6
+2009-03-19T01:50:45.273516Z
+19330
+hos
+has-props
+
+mmap_win.h
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+c66b24bff3de90ca33ee1c0a039a9e8c
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+

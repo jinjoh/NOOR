@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/quant/ppc_asm
+END
+quant_h263_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/quant/ppc_asm/quant_h263_altivec.c
+END
+quant_mpeg_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/quant/ppc_asm/quant_mpeg_altivec.c
+END

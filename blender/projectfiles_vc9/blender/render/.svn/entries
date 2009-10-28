@@ -1,0 +1,53 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc9/blender/render
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-11T21:13:32.040794Z
+23775
+ben2610
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BRE_raytrace.vcproj
+file
+
+
+
+
+2009-10-28T17:06:24.000000Z
+d8d306bfa533b47e6d927abb8674ad29
+2009-10-08T12:13:23.375911Z
+23713
+elubie
+has-props
+
+BRE_render.vcproj
+file
+
+
+
+
+2009-10-28T17:06:24.000000Z
+6fd740e9c2c871fcd336de56abb702ff
+2009-10-11T21:13:32.040794Z
+23775
+ben2610
+

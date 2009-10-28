@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image
+END
+interpolate8x8.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/interpolate8x8.c
+END
+colorspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/colorspace.h
+END
+reduced.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/reduced.h
+END
+qpel.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23221/trunk/blender/extern/xvidcore/src/image/qpel.c
+END
+postprocessing.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/postprocessing.c
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/image.c
+END
+interpolate8x8.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/interpolate8x8.h
+END
+qpel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/qpel.h
+END
+font.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/font.c
+END
+postprocessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/postprocessing.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/image.h
+END
+colorspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/colorspace.c
+END
+reduced.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/reduced.c
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/font.h
+END

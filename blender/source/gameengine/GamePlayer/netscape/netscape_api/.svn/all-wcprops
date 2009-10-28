@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/netscape_api
+END
+jritypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/netscape_api/jritypes.h
+END
+npupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/netscape_api/npupp.h
+END
+jri.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/netscape_api/jri.h
+END
+jri_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/netscape_api/jri_md.h
+END
+npapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/netscape_api/npapi.h
+END

@@ -1,0 +1,118 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-27T14:17:29.306178Z
+24116
+theeth
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+container
+dir
+
+bsp
+dir
+
+ghost
+dir
+
+audaspace
+dir
+
+guardedalloc
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+650e8c0b456cd8f334fd7079e4eae820
+2009-09-24T21:22:24.152620Z
+23463
+ben2610
+has-props
+
+elbeem
+dir
+
+boolop
+dir
+
+opennl
+dir
+
+iksolver
+dir
+
+tools
+dir
+
+itasc
+dir
+
+string
+dir
+
+decimation
+dir
+
+memutil
+dir
+
+make
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+865857a54a0d3b3ff3cd628c7d75b892
+2009-09-25T04:25:40.785935Z
+23474
+campbellbarton
+has-props
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+94a0673c91c8fb3afa75c14ff0e2ae28
+2009-09-24T21:22:24.152620Z
+23463
+ben2610
+has-props
+
+moto
+dir
+
+smoke
+dir
+

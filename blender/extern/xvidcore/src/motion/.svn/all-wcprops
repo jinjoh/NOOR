@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion
+END
+estimation_rd_based.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/estimation_rd_based.c
+END
+estimation_bvop.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/estimation_bvop.c
+END
+estimation_gmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/estimation_gmc.c
+END
+gmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/gmc.c
+END
+sad.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/sad.c
+END
+motion.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/motion.h
+END
+gmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/gmc.h
+END
+sad.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/sad.h
+END
+estimation_pvop.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/estimation_pvop.c
+END
+estimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/estimation.h
+END
+vop_type_decision.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/vop_type_decision.c
+END
+motion_comp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/motion_comp.c
+END
+estimation_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/estimation_common.c
+END
+estimation_rd_based_bvop.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/estimation_rd_based_bvop.c
+END
+motion_smp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/motion_smp.h
+END
+motion_inlines.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/motion/motion_inlines.h
+END

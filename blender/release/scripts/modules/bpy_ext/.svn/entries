@@ -1,0 +1,52 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/release/scripts/modules/bpy_ext
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-28T09:39:16.009833Z
+24133
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+__init__.py
+file
+
+
+
+
+2009-10-28T17:03:32.000000Z
+536cd1395ec674adb604192eed40b9e7
+2009-10-28T09:39:16.009833Z
+24133
+campbellbarton
+
+Object.py
+file
+
+
+
+
+2009-10-28T17:03:32.000000Z
+4c7a2d3a70915a8d143eb5d650c7aa8c
+2009-10-28T09:39:16.009833Z
+24133
+campbellbarton
+

@@ -1,0 +1,76 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/boolop
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-24T21:22:24.152620Z
+23463
+ben2610
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+extern
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:01.000000Z
+a9fa6e2231dc24e3485426a7eee9b98a
+2008-12-23T16:07:24.946207Z
+18030
+jesterking
+has-props
+
+make
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:01.000000Z
+71d14891f2553d41a0b15af9411c6108
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:01.000000Z
+678a89e34cbd22e67bfcbf4179636579
+2009-03-19T01:50:45.273516Z
+19330
+hos
+has-props
+

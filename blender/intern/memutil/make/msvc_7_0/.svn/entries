@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/memutil/make/msvc_7_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+memutil.sln
+file
+
+
+
+
+2009-10-28T17:04:06.000000Z
+0381115b8bee26cc7a867c2fa7c28a54
+2003-03-18T19:38:36.000000Z
+521
+zuster
+has-props
+
+memutil.vcproj
+file
+
+
+
+
+2009-10-28T17:04:06.000000Z
+5a6e2c845d6f2559ae998fab6a02b36d
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+has-props
+

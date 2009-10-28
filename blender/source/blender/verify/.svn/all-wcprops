@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/verify
+END
+BLO_signer_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/verify/BLO_signer_info.h
+END
+BLO_verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/verify/BLO_verify.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/verify/Makefile
+END
+BLO_sign_verify_Header.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/verify/BLO_sign_verify_Header.h
+END

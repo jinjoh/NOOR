@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom
+END
+_Blender3DPlugin_implementation_.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/_Blender3DPlugin_implementation_.cpp
+END
+Blender3DPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/Blender3DPlugin.h
+END
+Blender3DPlugin.idl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/Blender3DPlugin.idl
+END
+XPH_xpcom_hooks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/XPH_xpcom_hooks.cpp
+END
+_Blender3DPlugin_implementation_.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/_Blender3DPlugin_implementation_.h
+END
+Blender3DPlugin.xpt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/Blender3DPlugin.xpt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/Makefile
+END
+nsClassInfoMixin.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/nsClassInfoMixin.h
+END
+XPH_xpcom_hooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/src/xpcom/XPH_xpcom_hooks.h
+END

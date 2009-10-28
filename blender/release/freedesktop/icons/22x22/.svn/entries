@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/release/freedesktop/icons/22x22
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2007-08-28T10:07:08.895777Z
+11864
+sirdude
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+blender.xcf.bz2
+file
+
+
+
+
+2009-10-28T17:03:33.000000Z
+4e2b77f63e822cf159b26720b8ffa67a
+2007-08-28T10:07:08.895777Z
+11864
+sirdude
+has-props
+
+blender.png
+file
+
+
+
+
+2009-10-28T17:03:33.000000Z
+21869d83ac38b11f3f1d1e2325fb2de2
+2007-08-28T10:07:08.895777Z
+11864
+sirdude
+has-props
+

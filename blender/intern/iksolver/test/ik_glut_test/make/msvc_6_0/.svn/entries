@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/iksolver/test/ik_glut_test/make/msvc_6_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+ik_glut_test.dsp
+file
+
+
+
+
+2009-10-28T17:04:03.000000Z
+948c85eaa1bfbaeb66dfbb0c022b0ea0
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+ik_glut_test.dsw
+file
+
+
+
+
+2009-10-28T17:04:03.000000Z
+f14b9073fc952a7a560af89e9ba7cf76
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+

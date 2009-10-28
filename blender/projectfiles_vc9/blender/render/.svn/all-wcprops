@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bf-blender/!svn/ver/23775/trunk/blender/projectfiles_vc9/blender/render
+END
+BRE_raytrace.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23713/trunk/blender/projectfiles_vc9/blender/render/BRE_raytrace.vcproj
+END
+BRE_render.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23775/trunk/blender/projectfiles_vc9/blender/render/BRE_render.vcproj
+END

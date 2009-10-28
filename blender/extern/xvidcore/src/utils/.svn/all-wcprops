@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils
+END
+mbtransquant.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/mbtransquant.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/timer.c
+END
+emms.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/emms.c
+END
+mem_transfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/mem_transfer.c
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/timer.h
+END
+emms.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/emms.h
+END
+mem_transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/mem_transfer.h
+END
+mem_align.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/mem_align.c
+END
+mbfunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/mbfunctions.h
+END
+mem_align.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/mem_align.h
+END

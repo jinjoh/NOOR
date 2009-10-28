@@ -1,0 +1,102 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/elbeem
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-24T21:22:24.152620Z
+23463
+ben2610
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+extern
+dir
+
+COPYING_trimesh2
+file
+
+
+
+
+2009-10-28T17:04:00.000000Z
+1c98e08216b2b1d388499c40101c6dab
+2005-09-18T13:27:12.000000Z
+5297
+lukep
+has-props
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:00.000000Z
+3c02491c153248faf4477272786c2c1f
+2009-07-16T19:41:28.036881Z
+21631
+jesterking
+has-props
+
+COPYING
+file
+
+
+
+
+2009-10-28T17:04:00.000000Z
+c7ca25fd7309718c6b9e8652c8d26540
+2006-11-05T16:30:29.000000Z
+8751
+n_t
+has-props
+
+make
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:00.000000Z
+4a942113002fe5a9f0469084bf1066bc
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:01.000000Z
+027cbb225c9ad953b031a54578e609e4
+2009-03-19T01:50:45.273516Z
+19330
+hos
+has-props
+

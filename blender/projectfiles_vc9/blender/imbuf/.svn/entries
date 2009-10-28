@@ -1,0 +1,40 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc9/blender/imbuf
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-24T21:22:24.152620Z
+23463
+ben2610
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BL_imbuf.vcproj
+file
+
+
+
+
+2009-10-28T17:06:24.000000Z
+7940ae73a6c57e7f713776ddfbb21d21
+2009-09-24T21:22:24.152620Z
+23463
+ben2610
+

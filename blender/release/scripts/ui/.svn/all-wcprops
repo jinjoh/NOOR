@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/24128/trunk/blender/release/scripts/ui
+END
+buttons_data_metaball.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/buttons_data_metaball.py
+END
+buttons_data_bone.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23613/trunk/blender/release/scripts/ui/buttons_data_bone.py
+END
+buttons_data_text.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/buttons_data_text.py
+END
+space_image.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23786/trunk/blender/release/scripts/ui/space_image.py
+END
+space_filebrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23862/trunk/blender/release/scripts/ui/space_filebrowser.py
+END
+buttons_physics_smoke.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23740/trunk/blender/release/scripts/ui/buttons_physics_smoke.py
+END
+space_view3d_toolbar.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/24110/trunk/blender/release/scripts/ui/space_view3d_toolbar.py
+END
+buttons_world.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23744/trunk/blender/release/scripts/ui/buttons_world.py
+END
+buttons_data_modifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/buttons_data_modifier.py
+END
+space_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/24128/trunk/blender/release/scripts/ui/space_info.py
+END
+space_userpref.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/24084/trunk/blender/release/scripts/ui/space_userpref.py
+END
+buttons_physics_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23634/trunk/blender/release/scripts/ui/buttons_physics_common.py
+END
+buttons_physics_softbody.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23574/trunk/blender/release/scripts/ui/buttons_physics_softbody.py
+END
+space_outliner.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/24032/trunk/blender/release/scripts/ui/space_outliner.py
+END
+space_view3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/24119/trunk/blender/release/scripts/ui/space_view3d.py
+END
+buttons_texture.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/24056/trunk/blender/release/scripts/ui/buttons_texture.py
+END
+buttons_object.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23712/trunk/blender/release/scripts/ui/buttons_object.py
+END
+buttons_game.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23896/trunk/blender/release/scripts/ui/buttons_game.py
+END
+buttons_data_armature.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23957/trunk/blender/release/scripts/ui/buttons_data_armature.py
+END
+buttons_object_constraint.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23846/trunk/blender/release/scripts/ui/buttons_object_constraint.py
+END
+buttons_physics_cloth.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23574/trunk/blender/release/scripts/ui/buttons_physics_cloth.py
+END
+buttons_data_curve.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/buttons_data_curve.py
+END
+buttons_data_lattice.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/buttons_data_lattice.py
+END
+buttons_render.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23869/trunk/blender/release/scripts/ui/buttons_render.py
+END
+space_text.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/24092/trunk/blender/release/scripts/ui/space_text.py
+END
+buttons_data_camera.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/buttons_data_camera.py
+END
+space_node.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23724/trunk/blender/release/scripts/ui/space_node.py
+END
+buttons_data_lamp.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23794/trunk/blender/release/scripts/ui/buttons_data_lamp.py
+END
+buttons_data_mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/24060/trunk/blender/release/scripts/ui/buttons_data_mesh.py
+END
+buttons_physics_field.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23609/trunk/blender/release/scripts/ui/buttons_physics_field.py
+END
+space_sequencer.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23929/trunk/blender/release/scripts/ui/space_sequencer.py
+END
+buttons_data_empty.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/24000/trunk/blender/release/scripts/ui/buttons_data_empty.py
+END
+space_logic.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/space_logic.py
+END
+space_buttons.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23724/trunk/blender/release/scripts/ui/space_buttons.py
+END
+space_time.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23724/trunk/blender/release/scripts/ui/space_time.py
+END
+buttons_scene.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23858/trunk/blender/release/scripts/ui/buttons_scene.py
+END
+buttons_material.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23944/trunk/blender/release/scripts/ui/buttons_material.py
+END
+space_console.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23724/trunk/blender/release/scripts/ui/space_console.py
+END
+buttons_particle.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23928/trunk/blender/release/scripts/ui/buttons_particle.py
+END
+buttons_physics_fluid.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23513/trunk/blender/release/scripts/ui/buttons_physics_fluid.py
+END

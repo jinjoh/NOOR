@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/moto/make/msvc_7_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+moto.vcproj
+file
+
+
+
+
+2009-10-28T17:04:10.000000Z
+49387cb15b020f547f2fa0470700cc1b
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+has-props
+
+moto.sln
+file
+
+
+
+
+2009-10-28T17:04:10.000000Z
+75e4b9e14da942e14760498488f3ad4c
+2003-03-18T19:38:36.000000Z
+521
+zuster
+has-props
+

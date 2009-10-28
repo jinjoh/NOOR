@@ -1,0 +1,165 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/ffmpeg
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-28T15:49:26.758831Z
+23538
+jesterking
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+configure
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+b84603b285d3da57dd6d5b3e57661ed0
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+8019602afa667515cd5398c672326bc8
+2009-09-28T15:49:26.758831Z
+23538
+jesterking
+has-props
+
+patches
+dir
+
+libswscale
+dir
+
+libavcodec
+dir
+
+libavutil
+dir
+
+CREDITS
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+fee3c9855eb966b261119f64555a9fab
+2006-06-25T18:25:36.000000Z
+7901
+schlaile
+has-props
+
+ffmpeg-update.sh
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+fc0105fa0c342b76c0dbfb7f302186cb
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+subdir.mak
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+637a7b6897c1d9ac3b1c1b4bc9dabb82
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+libpostproc
+dir
+
+xvmc_render.h
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+3f5a5fd148642acc9177743ccee88028
+2006-06-25T18:38:47.000000Z
+7903
+schlaile
+has-props
+
+libavformat
+dir
+
+COPYING
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+dafc9d229b65b58f253daf44ad9a821a
+2006-06-25T18:25:36.000000Z
+7901
+schlaile
+has-props
+
+berrno.h
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+2215078b2a1e803f0d5062f6fd6c75d9
+2006-06-25T18:25:36.000000Z
+7901
+schlaile
+has-props
+
+libavdevice
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:06:05.000000Z
+52f9d9848ea3461430acfb0baf985862
+2009-06-08T20:08:19.969575Z
+20741
+blendix
+has-props
+

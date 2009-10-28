@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/24108/trunk/blender/source/blender/editors/space_graph
+END
+graph_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/24049/trunk/blender/source/blender/editors/space_graph/graph_draw.c
+END
+graph_buttons.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/24108/trunk/blender/source/blender/editors/space_graph/graph_buttons.c
+END
+graph_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23482/trunk/blender/source/blender/editors/space_graph/graph_select.c
+END
+graph_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23605/trunk/blender/source/blender/editors/space_graph/graph_utils.c
+END
+graph_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23998/trunk/blender/source/blender/editors/space_graph/graph_ops.c
+END
+graph_intern.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/24049/trunk/blender/source/blender/editors/space_graph/graph_intern.h
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23587/trunk/blender/source/blender/editors/space_graph/SConscript
+END
+graph_edit.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/24085/trunk/blender/source/blender/editors/space_graph/graph_edit.c
+END
+graph_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/24049/trunk/blender/source/blender/editors/space_graph/graph_header.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/space_graph/Makefile
+END
+space_graph.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/24063/trunk/blender/source/blender/editors/space_graph/space_graph.c
+END

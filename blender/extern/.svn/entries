@@ -1,0 +1,106 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-26T10:19:25.690541Z
+24083
+damien78
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+xvidcore
+dir
+
+libmp3lame
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:06:14.000000Z
+b3cde9b129c660c9254c82e1235a393c
+2009-09-25T02:40:10.231199Z
+23473
+campbellbarton
+has-props
+
+libredcode
+dir
+
+binreloc
+dir
+
+glew
+dir
+
+libopenjpeg
+dir
+
+lzma
+dir
+
+x264
+dir
+
+ffmpeg
+dir
+
+lzo
+dir
+
+Eigen2
+dir
+
+bullet2
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:06:14.000000Z
+261340652031fe60013933826d4ff1ac
+2009-09-25T02:40:10.231199Z
+23473
+campbellbarton
+has-props
+
+make
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:06:14.000000Z
+1d2b677aa5e2685ba0865fc9c6270f04
+2009-09-25T02:40:10.231199Z
+23473
+campbellbarton
+has-props
+

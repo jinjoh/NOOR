@@ -1,0 +1,44 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/iksolver/test
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-06-21T16:18:38.966996Z
+21059
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+ik_glut_test
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:03.000000Z
+0ac8bf5727674b315d8703de7ae1476c
+2009-06-21T16:18:38.966996Z
+21059
+campbellbarton
+has-props
+

@@ -1,0 +1,73 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/kernel
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+gen_messaging
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+04281ce1db3a3e8a1c88574d858a12a6
+2009-09-05T01:58:02.640114Z
+23013
+jesterking
+has-props
+
+gen_system
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+685b16cdef59c0c27f5d7768cdd5bddd
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:11.000000Z
+a023382e80822979728a5f5be64becf9
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

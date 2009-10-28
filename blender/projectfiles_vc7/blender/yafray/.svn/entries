@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc7/blender/yafray
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BRE_yafray.vcproj
+file
+
+
+
+
+2009-10-28T17:06:23.000000Z
+1650a3ba67f92535d5ef090ac2b81261
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+has-props
+

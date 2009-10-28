@@ -1,0 +1,50 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/gameengine/Physics
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-29T21:42:40.108286Z
+23562
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+Bullet
+dir
+
+common
+dir
+
+Dummy
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:14.000000Z
+853cd5a3b7b3bb39ae8001f16d7ecc1e
+2009-06-21T16:18:38.966996Z
+21059
+campbellbarton
+has-props
+

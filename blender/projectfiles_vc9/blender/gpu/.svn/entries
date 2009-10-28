@@ -1,0 +1,40 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc9/blender/gpu
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-11T21:13:32.040794Z
+23775
+ben2610
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BL_gpu.vcproj
+file
+
+
+
+
+2009-10-28T17:06:24.000000Z
+6a770b8394675de5a6507dc7619fe73c
+2009-10-11T21:13:32.040794Z
+23775
+ben2610
+

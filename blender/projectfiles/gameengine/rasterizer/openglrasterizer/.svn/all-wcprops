@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/projectfiles/gameengine/rasterizer/openglrasterizer
+END
+RAS_openglrasterizer.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/projectfiles/gameengine/rasterizer/openglrasterizer/RAS_openglrasterizer.dsp
+END

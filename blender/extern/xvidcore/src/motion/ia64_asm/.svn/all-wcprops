@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/ia64_asm
+END
+halfpel8_refine_ia64.s
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/ia64_asm/halfpel8_refine_ia64.s
+END
+sad_ia64.s
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/ia64_asm/sad_ia64.s
+END
+calc_delta_1.s
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/ia64_asm/calc_delta_1.s
+END
+calc_delta_2.s
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/ia64_asm/calc_delta_2.s
+END
+calc_delta_3.s
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/ia64_asm/calc_delta_3.s
+END

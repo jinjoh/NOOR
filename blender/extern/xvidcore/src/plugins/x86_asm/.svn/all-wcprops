@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/plugins/x86_asm
+END
+plugin_ssim-a.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/plugins/x86_asm/plugin_ssim-a.asm
+END

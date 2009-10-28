@@ -1,0 +1,44 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/bsp/test
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-06-21T16:18:38.966996Z
+21059
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BSP_GhostTest
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:03:53.000000Z
+813ead13221c7762524f91f50f99f60c
+2009-06-21T16:18:38.966996Z
+21059
+campbellbarton
+has-props
+

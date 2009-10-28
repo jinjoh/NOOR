@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/CMake
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-02T03:09:17.331577Z
+23599
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+macros.cmake
+file
+
+
+
+
+2009-10-28T17:03:29.000000Z
+86e7da6981dd6daacee8e508be29cb3d
+2009-10-02T03:09:17.331577Z
+23599
+campbellbarton
+has-props
+

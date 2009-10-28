@@ -1,0 +1,57 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/ghost/test/gears/resources/osx
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2002-10-12T12:32:08.000000Z
+6
+hans
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+Info.plist
+file
+
+
+
+
+2009-10-28T17:03:49.000000Z
+4160617c2617093d200b9fa2ba5136cd
+2002-10-12T12:32:08.000000Z
+6
+hans
+has-props
+
+PkgInfo
+file
+
+
+
+
+2009-10-28T17:03:49.000000Z
+23b7d7d024abb0f558420e098800bf27
+2002-10-12T12:32:08.000000Z
+6
+hans
+has-props
+
+English.lproj
+dir
+

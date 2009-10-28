@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/quant/x86_asm
+END
+quantize_h263_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/quant/x86_asm/quantize_h263_mmx.asm
+END
+quantize_mpeg_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/quant/x86_asm/quantize_mpeg_mmx.asm
+END
+quantize_mpeg_xmm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/quant/x86_asm/quantize_mpeg_xmm.asm
+END
+quantize_h263_3dne.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/quant/x86_asm/quantize_h263_3dne.asm
+END

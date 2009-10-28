@@ -1,0 +1,53 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/release/windows
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-10T20:31:15.657114Z
+23114
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+contrib
+dir
+
+extra
+dir
+
+inno
+dir
+
+BlenderPlayer
+dir
+
+specific.sh
+file
+
+
+
+
+2009-10-28T17:03:33.000000Z
+96ec38e1e702568690a789b652377ba1
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+

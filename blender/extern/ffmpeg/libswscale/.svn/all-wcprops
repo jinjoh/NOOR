@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libswscale
+END
+yuv2rgb_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/yuv2rgb_bfin.c
+END
+swscale_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/swscale_bfin.c
+END
+yuv2rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/yuv2rgb.c
+END
+swscale.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/swscale.c
+END
+swscale_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/swscale_internal.h
+END
+yuv2rgb_mlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/yuv2rgb_mlib.c
+END
+swscale_altivec_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/swscale_altivec_template.c
+END
+cs_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/cs_test.c
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/swscale.h
+END
+yuv2rgb_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/yuv2rgb_altivec.c
+END
+swscale_avoption.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libswscale/swscale_avoption.c
+END
+yuv2rgb_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/yuv2rgb_vis.c
+END
+rgb2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/rgb2rgb_template.c
+END
+rgb2rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/rgb2rgb.c
+END
+internal_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/internal_bfin.S
+END
+swscale-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/swscale-example.c
+END
+yuv2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/yuv2rgb_template.c
+END
+swscale_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/swscale_template.c
+END
+rgb2rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/rgb2rgb.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libswscale/Makefile
+END

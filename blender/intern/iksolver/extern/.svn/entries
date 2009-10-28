@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/iksolver/extern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-01-07T19:13:47.953844Z
+13161
+hos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+IK_solver.h
+file
+
+
+
+
+2009-10-28T17:04:03.000000Z
+981d133cd06ffbcdf2733bf24415af63
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

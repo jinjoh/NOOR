@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows
+END
+GPW_System.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_System.cpp
+END
+GPW_Engine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_Engine.cpp
+END
+GPW_KeyboardDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_KeyboardDevice.h
+END
+GPW_System.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_System.h
+END
+GPW_Engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_Engine.h
+END
+GPW_Canvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_Canvas.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/Makefile
+END
+GPW_Canvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_Canvas.h
+END
+GPW_KeyboardDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/common/windows/GPW_KeyboardDevice.cpp
+END

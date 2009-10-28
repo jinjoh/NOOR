@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/ppc_asm
+END
+colorspace_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/ppc_asm/colorspace_altivec.c
+END
+interpolate8x8_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/ppc_asm/interpolate8x8_altivec.c
+END
+qpel_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/image/ppc_asm/qpel_altivec.c
+END

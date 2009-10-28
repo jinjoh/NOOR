@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/string/make/msvc_7_0
+END
+string.sln
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/string/make/msvc_7_0/string.sln
+END
+string.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/string/make/msvc_7_0/string.vcproj
+END

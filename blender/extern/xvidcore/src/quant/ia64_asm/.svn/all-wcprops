@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/quant/ia64_asm
+END
+quant_h263_ia64.s
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/quant/ia64_asm/quant_h263_ia64.s
+END

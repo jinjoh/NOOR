@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc7/kernel/gen_messaging
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+gen_messaging.vcproj
+file
+
+
+
+
+2009-10-28T17:06:22.000000Z
+2a646e6ca8b2021d822071aa186ee338
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+has-props
+

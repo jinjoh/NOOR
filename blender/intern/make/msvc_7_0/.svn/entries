@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/make/msvc_7_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2007-07-04T19:29:59.628886Z
+11167
+elubie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+build_install_all.vcproj
+file
+
+
+
+
+2009-10-28T17:04:08.000000Z
+79377c61073790c9c4fb156884d01ec3
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+has-props
+
+intern.sln
+file
+
+
+
+
+2009-10-28T17:04:08.000000Z
+dc6f2346564f2fbe5ef88df4626e8f4c
+2007-07-04T19:29:59.628886Z
+11167
+elubie
+has-props
+

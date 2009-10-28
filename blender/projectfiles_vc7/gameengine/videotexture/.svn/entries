@@ -1,0 +1,40 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc7/gameengine/videotexture
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+TEX_Video.vcproj
+file
+
+
+
+
+2009-10-28T17:06:22.000000Z
+c49379c885e0e0c16bfce36dc934898c
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+

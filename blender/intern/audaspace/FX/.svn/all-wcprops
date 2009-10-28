@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX
+END
+AUD_LoopFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LoopFactory.h
+END
+AUD_PingPongFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_PingPongFactory.cpp
+END
+AUD_FaderReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_FaderReader.h
+END
+AUD_FaderFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_FaderFactory.h
+END
+AUD_EffectFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_EffectFactory.cpp
+END
+AUD_EffectReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_EffectReader.h
+END
+AUD_DelayFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_DelayFactory.cpp
+END
+AUD_DelayReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_DelayReader.h
+END
+AUD_LoopReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LoopReader.cpp
+END
+AUD_LimiterReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LimiterReader.h
+END
+AUD_DoubleReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_DoubleReader.cpp
+END
+AUD_PitchReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_PitchReader.h
+END
+AUD_VolumeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_VolumeReader.h
+END
+AUD_LoopFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LoopFactory.cpp
+END
+AUD_LimiterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LimiterFactory.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/Makefile
+END
+AUD_ReverseReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_ReverseReader.h
+END
+AUD_VolumeFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_VolumeFactory.h
+END
+AUD_FaderReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_FaderReader.cpp
+END
+AUD_PitchFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_PitchFactory.h
+END
+AUD_ReverseFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_ReverseFactory.h
+END
+AUD_FaderFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_FaderFactory.cpp
+END
+AUD_PingPongFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_PingPongFactory.h
+END
+AUD_EffectReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_EffectReader.cpp
+END
+AUD_DelayReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_DelayReader.cpp
+END
+AUD_LimiterReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LimiterReader.cpp
+END
+AUD_EffectFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_EffectFactory.h
+END
+AUD_VolumeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_VolumeReader.cpp
+END
+AUD_PitchReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_PitchReader.cpp
+END
+AUD_DelayFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_DelayFactory.h
+END
+AUD_LimiterFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LimiterFactory.cpp
+END
+AUD_ReverseReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_ReverseReader.cpp
+END
+AUD_PitchFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_PitchFactory.cpp
+END
+AUD_VolumeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_VolumeFactory.cpp
+END
+AUD_LoopReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_LoopReader.h
+END
+AUD_DoubleReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_DoubleReader.h
+END
+AUD_ReverseFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/audaspace/FX/AUD_ReverseFactory.cpp
+END

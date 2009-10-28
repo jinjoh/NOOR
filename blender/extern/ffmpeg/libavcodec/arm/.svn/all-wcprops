@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm
+END
+asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/asm.S
+END
+dsputil_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/dsputil_neon.c
+END
+dsputil_neon_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/dsputil_neon_s.S
+END
+simple_idct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/simple_idct_arm.S
+END
+mpegvideo_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/mpegvideo_arm.c
+END
+simple_idct_armv5te.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/simple_idct_armv5te.S
+END
+dsputil_vfp.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/dsputil_vfp.S
+END
+float_arm_vfp.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/float_arm_vfp.c
+END
+jrevdct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/jrevdct_arm.S
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/mathops.h
+END
+mpegvideo_armv5te.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/mpegvideo_armv5te.c
+END
+dsputil_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/dsputil_arm.c
+END
+mpegvideo_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/mpegvideo_iwmmxt.c
+END
+mpegvideo_armv5te_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/mpegvideo_armv5te_s.S
+END
+dsputil_arm_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/dsputil_arm_s.S
+END
+h264idct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/h264idct_neon.S
+END
+dsputil_iwmmxt_rnd_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/dsputil_iwmmxt_rnd_template.c
+END
+simple_idct_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/simple_idct_armv6.S
+END
+h264dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/h264dsp_neon.S
+END
+dsputil_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/libavcodec/arm/dsputil_iwmmxt.c
+END
+simple_idct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/arm/simple_idct_neon.S
+END

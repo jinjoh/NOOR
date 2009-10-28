@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bf-blender/!svn/ver/24111/trunk/blender/tools
+END
+Blender.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bf-blender/!svn/ver/24111/trunk/blender/tools/Blender.py
+END
+crossmingw.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/tools/crossmingw.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/tools/__init__.py
+END
+btools.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bf-blender/!svn/ver/24111/trunk/blender/tools/btools.py
+END
+bcolors.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/tools/bcolors.py
+END
+mstoolkit.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/tools/mstoolkit.py
+END

@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/xvidcore/src/quant/ppc_asm
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+quant_h263_altivec.c
+file
+
+
+
+
+2009-10-28T17:05:25.000000Z
+1030d9a0fdbc91c12852671e6c42b656
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+quant_mpeg_altivec.c
+file
+
+
+
+
+2009-10-28T17:05:25.000000Z
+c75cfc60e5708b0c55c08ba3f2d6994b
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+

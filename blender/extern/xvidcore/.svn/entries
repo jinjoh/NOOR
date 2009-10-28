@@ -1,0 +1,83 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/xvidcore
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-01T20:55:37.731119Z
+23595
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+build
+dir
+
+LICENSE
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+713496289346a6c1c265f0e1f615ecd0
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+
+AUTHORS
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+9dbf1d3ec6927cdc45f8180204ae5e26
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+
+src
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+2bf628903a5d5753d95033fdfc52d850
+2009-10-01T20:55:37.731119Z
+23595
+gsrb3d
+has-props
+
+README
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+7886e26a96aa7322aeb082faa04b825a
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+

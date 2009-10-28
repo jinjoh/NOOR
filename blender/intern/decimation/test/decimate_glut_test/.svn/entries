@@ -1,0 +1,60 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/decimation/test/decimate_glut_test
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+beethoven.ply
+file
+
+
+
+
+2009-10-28T17:04:08.000000Z
+bc94fe22c270ff1c70a943e1f467485d
+2002-10-12T12:32:08.000000Z
+6
+hans
+has-props
+
+make
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:08.000000Z
+b39ed440901d1e52add120b6825498cc
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

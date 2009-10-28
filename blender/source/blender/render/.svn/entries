@@ -1,0 +1,73 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/blender/render
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-21T17:56:26.886961Z
+24041
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+extern
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:33.000000Z
+a9f2ae8eb517f5ff56e26fed56e2871a
+2009-10-19T15:58:09.979024Z
+23968
+blendix
+has-props
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:33.000000Z
+1347735eaf1f848aadc7165168eb42c2
+2009-10-06T04:37:25.458089Z
+23653
+broken
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:33.000000Z
+4ad6d2f2e2481678e85cd3a0a5605947
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

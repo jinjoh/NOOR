@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src
+END
+encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/encoder.c
+END
+xvid.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/xvid.h
+END
+encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/encoder.h
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/global.h
+END
+decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/decoder.c
+END
+nasm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/nasm.inc
+END
+xvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/xvid.c
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/decoder.h
+END
+portab.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/portab.h
+END

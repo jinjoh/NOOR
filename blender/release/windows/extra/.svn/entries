@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/release/windows/extra
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-08-03T20:31:33.119885Z
+22195
+jesterking
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+Help.url
+file
+
+
+
+
+2009-10-28T17:03:32.000000Z
+f8da2608e9a7fdcd583339913b3ebc4d
+2003-02-10T09:20:27.000000Z
+473
+frank
+has-props
+

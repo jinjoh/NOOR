@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/test/colorcycle
+END
+TST_colorcycle.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/test/colorcycle/TST_colorcycle.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/test/colorcycle/Makefile
+END

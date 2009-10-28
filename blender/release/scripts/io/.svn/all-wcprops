@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/24103/trunk/blender/release/scripts/io
+END
+engine_render_pov.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23837/trunk/blender/release/scripts/io/engine_render_pov.py
+END
+export_3ds.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/24103/trunk/blender/release/scripts/io/export_3ds.py
+END
+export_obj.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23764/trunk/blender/release/scripts/io/export_obj.py
+END
+export_x3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23764/trunk/blender/release/scripts/io/export_x3d.py
+END
+add_mesh_torus.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23909/trunk/blender/release/scripts/io/add_mesh_torus.py
+END
+export_fbx.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23764/trunk/blender/release/scripts/io/export_fbx.py
+END
+mesh_skin.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bf-blender/!svn/ver/23840/trunk/blender/release/scripts/io/mesh_skin.py
+END
+import_3ds.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/24103/trunk/blender/release/scripts/io/import_3ds.py
+END
+import_obj.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23764/trunk/blender/release/scripts/io/import_obj.py
+END
+export_mdd.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23764/trunk/blender/release/scripts/io/export_mdd.py
+END
+export_ply.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23764/trunk/blender/release/scripts/io/export_ply.py
+END

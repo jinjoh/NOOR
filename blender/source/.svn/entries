@@ -1,0 +1,156 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-28T16:32:14.050831Z
+24140
+billrey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+kernel
+dir
+
+darwin
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+134df3815fa9bfcea53746280fe1ba50
+2009-09-04T10:40:41.622392Z
+22989
+jesterking
+has-props
+
+blenderplayer
+dir
+
+nan_compile.mk
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+f413c6bff97ec09246504ad6c4fcff17
+2009-10-20T15:51:18.414790Z
+24006
+ton
+has-props
+
+nan_link.mk
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+d8f0d5c60558131686fac98f10f7ee83
+2009-09-11T14:31:05.418250Z
+23127
+sirdude
+has-props
+
+creator
+dir
+
+gameengine
+dir
+
+tools
+dir
+
+nan_warn.mk
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+9515c0e9426ca7c2376f461e97975a6b
+2009-09-20T20:21:01.267268Z
+23381
+gsrb3d
+has-props
+
+blender
+dir
+
+icons
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+b3c1cf2284d7940dcfd5b641b4af01ca
+2009-10-06T17:01:00.232955Z
+23666
+gsrb3d
+has-props
+
+nan_definitions.mk
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+7ed4a2cb4adbf36ed29a9a5532a85a4b
+2009-09-25T04:25:40.785935Z
+23474
+campbellbarton
+has-props
+
+nan_subdirs.mk
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+373293fcb0dc06e29dc92367acebe110
+2009-03-19T01:50:45.273516Z
+19330
+hos
+has-props
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+34b8839fb9cccc9a0ddda50a58faff10
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+has-props
+

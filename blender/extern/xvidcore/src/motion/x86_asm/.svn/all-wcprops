@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/x86_asm
+END
+sad_3dne.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/x86_asm/sad_3dne.asm
+END
+sad_sse2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/x86_asm/sad_sse2.asm
+END
+sad_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/x86_asm/sad_mmx.asm
+END
+sad_xmm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/x86_asm/sad_xmm.asm
+END
+sad_3dn.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/motion/x86_asm/sad_3dn.asm
+END

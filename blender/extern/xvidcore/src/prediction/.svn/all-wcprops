@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/prediction
+END
+mbprediction.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/prediction/mbprediction.c
+END
+mbprediction.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/prediction/mbprediction.h
+END

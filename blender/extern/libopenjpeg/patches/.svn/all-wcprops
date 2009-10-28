@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/libopenjpeg/patches
+END
+osx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/libopenjpeg/patches/osx.patch
+END

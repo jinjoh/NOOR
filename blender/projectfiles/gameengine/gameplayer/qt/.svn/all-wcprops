@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/projectfiles/gameengine/gameplayer/qt
+END
+qtgp.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/projectfiles/gameengine/gameplayer/qt/qtgp.dsw
+END
+gpplugin.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/projectfiles/gameengine/gameplayer/qt/gpplugin.dsp
+END
+gp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/projectfiles/gameengine/gameplayer/qt/gp.dsp
+END

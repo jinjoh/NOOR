@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/xvidcore/src/utils/ppc_asm
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+mem_transfer_altivec.c
+file
+
+
+
+
+2009-10-28T17:05:26.000000Z
+efb390e4fc20f8b8e1cc3637337bdc4e
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+altivec_trigger.c
+file
+
+
+
+
+2009-10-28T17:05:26.000000Z
+4cbd6f8183368942c0bcdfb32b6a6fbb
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+

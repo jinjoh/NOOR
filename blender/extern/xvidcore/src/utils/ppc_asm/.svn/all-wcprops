@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/ppc_asm
+END
+mem_transfer_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/ppc_asm/mem_transfer_altivec.c
+END
+altivec_trigger.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/utils/ppc_asm/altivec_trigger.c
+END

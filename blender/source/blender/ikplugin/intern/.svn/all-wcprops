@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/24006/trunk/blender/source/blender/ikplugin/intern
+END
+ikplugin_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23467/trunk/blender/source/blender/ikplugin/intern/ikplugin_api.h
+END
+iksolver_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23467/trunk/blender/source/blender/ikplugin/intern/iksolver_plugin.h
+END
+itasc_plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/24006/trunk/blender/source/blender/ikplugin/intern/itasc_plugin.cpp
+END
+itasc_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23467/trunk/blender/source/blender/ikplugin/intern/itasc_plugin.h
+END
+ikplugin_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23480/trunk/blender/source/blender/ikplugin/intern/ikplugin_api.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23493/trunk/blender/source/blender/ikplugin/intern/Makefile
+END
+iksolver_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23778/trunk/blender/source/blender/ikplugin/intern/iksolver_plugin.c
+END

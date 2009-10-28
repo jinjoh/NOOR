@@ -1,0 +1,92 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/tools
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+cygwin
+dir
+
+MakeCursor.py
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+451591ba9f17067760a48f5ffed83d34
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+wrap.pl
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+954a4019e270af44f2bddb1ab00bd80d
+2003-01-14T21:41:03.000000Z
+340
+sirdude
+has-props
+
+darwin
+dir
+
+hmake
+dir
+
+to_unix
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+78f3b0e88e1b755223cc8bbe2ad3963d
+2002-10-12T11:37:38.000000Z
+2
+hans
+has-props
+
+guess
+dir
+
+to_dos
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+63967f059528e61f2da63f8fa778b676
+2002-10-12T11:37:38.000000Z
+2
+hans
+has-props
+

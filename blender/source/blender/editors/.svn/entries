@@ -1,0 +1,178 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/blender/editors
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-28T16:32:14.050831Z
+24140
+billrey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+space_script
+dir
+
+animation
+dir
+
+screen
+dir
+
+gpencil
+dir
+
+physics
+dir
+
+curve
+dir
+
+space_action
+dir
+
+sound
+dir
+
+space_text
+dir
+
+space_sequencer
+dir
+
+sculpt_paint
+dir
+
+space_info
+dir
+
+space_userpref
+dir
+
+space_buttons
+dir
+
+space_time
+dir
+
+transform
+dir
+
+space_view3d
+dir
+
+space_outliner
+dir
+
+space_console
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+6a9cd550c7449d349142b4b5826e6a86
+2009-09-24T21:22:24.152620Z
+23463
+ben2610
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+a0f9748d1b0dce83474b2d5b0b5271c5
+2009-09-29T19:12:12.027631Z
+23559
+blendix
+has-props
+
+render
+dir
+
+armature
+dir
+
+metaball
+dir
+
+include
+dir
+
+space_api
+dir
+
+space_nla
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+7aae80db2a79de8308e088f578fa6ba9
+2009-10-01T16:32:33.040756Z
+23587
+theeth
+has-props
+
+space_file
+dir
+
+mesh
+dir
+
+datafiles
+dir
+
+space_image
+dir
+
+interface
+dir
+
+space_node
+dir
+
+uvedit
+dir
+
+space_sound
+dir
+
+object
+dir
+
+space_logic
+dir
+
+space_graph
+dir
+
+util
+dir
+

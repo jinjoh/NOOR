@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct
+END
+fdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct/fdct.c
+END
+idct.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct/idct.c
+END
+README.IJG
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/README.IJG
+END
+fdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct/fdct.h
+END
+idct.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct/idct.h
+END
+simple_idct.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct/simple_idct.c
+END

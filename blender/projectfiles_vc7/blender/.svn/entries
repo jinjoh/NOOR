@@ -1,0 +1,147 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc7/blender
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+render
+dir
+
+avi
+dir
+
+blenkernel
+dir
+
+makesdna
+dir
+
+src
+dir
+
+blenpluginapi
+dir
+
+yafray
+dir
+
+BPY_python
+dir
+
+gpu
+dir
+
+makesdnacompact.vcproj
+file
+
+
+
+
+2009-10-28T17:06:23.000000Z
+b77b0b37d89ea713a95356ab0e7087fd
+2005-07-20T20:54:52.000000Z
+4861
+zuster
+has-props
+
+ftfont
+dir
+
+imbuf
+dir
+
+loader
+dir
+
+blender.sln
+file
+
+
+
+
+2009-10-28T17:06:23.000000Z
+b97901d396805001104d65b6b6bb1200
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+has-props
+
+renderconverter
+dir
+
+radiosity
+dir
+
+blenlib
+dir
+
+BLO_readblenfile
+dir
+
+nodes
+dir
+
+blendercompactNG.vcproj
+file
+
+
+
+
+2009-10-28T17:06:23.000000Z
+6cadfaa058ab8280e920fac7f56fc23b
+2005-07-22T06:45:37.000000Z
+4872
+zuster
+has-props
+
+img
+dir
+
+blendercompact.sln
+file
+
+
+
+
+2009-10-28T17:06:23.000000Z
+baa024e4b324d5b490522a9d0b364a73
+2005-07-20T20:54:52.000000Z
+4861
+zuster
+has-props
+
+blender.vcproj
+file
+
+
+
+
+2009-10-28T17:06:23.000000Z
+35ddc56da9ed2a2dee7f6bb15783ebbf
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+has-props
+

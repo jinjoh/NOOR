@@ -1,0 +1,31 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/lzo/make
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-08-20T09:18:55.848955Z
+22652
+ben2610
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+msvc_9_0
+dir
+

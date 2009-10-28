@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/tools/darwin
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2002-10-12T11:37:38.000000Z
+2
+hans
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+reranlib.sh
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+3b432454d0a4334541f5ce4dcffa9115
+2002-10-12T11:37:38.000000Z
+2
+hans
+has-props
+

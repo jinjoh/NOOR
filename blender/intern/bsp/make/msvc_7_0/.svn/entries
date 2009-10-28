@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/bsp/make/msvc_7_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2006-11-09T20:55:13.000000Z
+8806
+elubie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+bsplib.sln
+file
+
+
+
+
+2009-10-28T17:03:53.000000Z
+47ae83f38402d6abb50be18042111df8
+2003-03-18T19:38:36.000000Z
+521
+zuster
+has-props
+
+bsplib.vcproj
+file
+
+
+
+
+2009-10-28T17:03:54.000000Z
+5b92451c51d7f8e27d38aacb7d12da40
+2006-11-09T20:55:13.000000Z
+8806
+elubie
+has-props
+

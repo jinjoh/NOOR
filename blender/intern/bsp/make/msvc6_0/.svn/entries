@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/bsp/make/msvc6_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+bsplib.dsp
+file
+
+
+
+
+2009-10-28T17:03:53.000000Z
+935992d11c1f77f7f191142a1f40f7d3
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+bsplib.dsw
+file
+
+
+
+
+2009-10-28T17:03:53.000000Z
+c28762339deb90fa18cb38293c11970c
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+

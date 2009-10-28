@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/make/xc_blender/xc_blender.xcode
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2006-06-15T01:20:57.000000Z
+7726
+broken
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+project.pbxproj
+file
+
+
+
+
+2009-10-28T17:06:26.000000Z
+3f279403417fc97b75eb95013b25f8eb
+2006-06-15T01:20:57.000000Z
+7726
+broken
+has-props
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct/ia64_asm
+END
+idct_ia64_ecc.s
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/ia64_asm/idct_ia64_ecc.s
+END
+idct_ia64_gcc.s
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/ia64_asm/idct_ia64_gcc.s
+END
+fdct_ia64.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/ia64_asm/fdct_ia64.s
+END
+genidct.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/dct/ia64_asm/genidct.py
+END
+idct_init.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/ia64_asm/idct_init.s
+END
+idct_fini.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/ia64_asm/idct_fini.s
+END

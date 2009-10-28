@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/ia64_asm
+END
+interpolate8x8_ia64.s
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/ia64_asm/interpolate8x8_ia64.s
+END
+interpolate8x8_ia64_exact.s
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/ia64_asm/interpolate8x8_ia64_exact.s
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/ia64_asm/README
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc
+END
+gcc_fixes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/gcc_fixes.h
+END
+dsputil_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/dsputil_altivec.h
+END
+int_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/int_altivec.c
+END
+vc1dsp_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/vc1dsp_altivec.c
+END
+float_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/float_altivec.c
+END
+imgresample_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/imgresample_altivec.c
+END
+gmc_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/gmc_altivec.c
+END
+types_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/types_altivec.h
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/mathops.h
+END
+imgresample_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/imgresample_altivec.h
+END
+check_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/check_altivec.c
+END
+h264_template_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/h264_template_altivec.c
+END
+mpegvideo_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/mpegvideo_altivec.c
+END
+dsputil_ppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/dsputil_ppc.c
+END
+fft_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/fft_altivec.c
+END
+fdct_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/fdct_altivec.c
+END
+util_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/util_altivec.h
+END
+idct_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/idct_altivec.c
+END
+h264_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/h264_altivec.c
+END
+dsputil_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/dsputil_ppc.h
+END
+dsputil_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/dsputil_altivec.c
+END
+snow_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/ppc/snow_altivec.c
+END

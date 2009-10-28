@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/ghost/make/msvc_7_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+ghost.sln
+file
+
+
+
+
+2009-10-28T17:03:52.000000Z
+82cc0739e70e245165eec2e2cd1a062b
+2003-03-18T19:38:36.000000Z
+521
+zuster
+has-props
+
+ghost.vcproj
+file
+
+
+
+
+2009-10-28T17:03:52.000000Z
+a0b01d218876c764fef958ab841c6e6b
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+has-props
+

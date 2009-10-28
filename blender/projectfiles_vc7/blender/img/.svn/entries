@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc7/blender/img
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BL_img.vcproj
+file
+
+
+
+
+2009-10-28T17:06:23.000000Z
+b3ef880fe8b12ea4dbc196ca2579c2d0
+2006-04-17T20:05:39.000000Z
+7275
+ascotan
+has-props
+

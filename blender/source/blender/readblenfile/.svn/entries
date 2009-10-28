@@ -1,0 +1,89 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/blender/readblenfile
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-06T13:20:05.261018Z
+23030
+jesterking
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+test
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+66c652ded32e9a2e8f1a00f900bbc761
+2009-09-05T01:58:02.640114Z
+23013
+jesterking
+has-props
+
+stub
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+cbcc77b6056e1b0d3b0fca9810b5f3a6
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+391e4fa9663edc06f732cdcd225efc64
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+
+BLO_readblenfile.h
+file
+
+
+
+
+2009-10-28T17:05:16.000000Z
+e8fa2e7a0293216f374197b910c96777
+2008-12-19T00:50:21.542172Z
+17935
+blendix
+has-props
+

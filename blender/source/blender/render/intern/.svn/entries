@@ -1,0 +1,50 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/blender/render/intern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-21T17:56:26.886961Z
+24041
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+source
+dir
+
+include
+dir
+
+raytrace
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:33.000000Z
+9a3c27759e3d584935b93d735102854a
+2009-10-07T19:29:39.814393Z
+23694
+bdiego
+has-props
+

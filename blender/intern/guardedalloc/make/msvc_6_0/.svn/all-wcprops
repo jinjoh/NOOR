@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/guardedalloc/make/msvc_6_0
+END
+guardedalloc.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/guardedalloc/make/msvc_6_0/guardedalloc.dsp
+END

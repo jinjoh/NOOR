@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc
+END
+dct.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/dct.h
+END
+mc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/mc.c
+END
+predict.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/predict.h
+END
+ppccommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/ppccommon.h
+END
+pixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/pixel.c
+END
+deblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/deblock.c
+END
+mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/mc.h
+END
+pixel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/pixel.h
+END
+quant.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/quant.c
+END
+dct.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/dct.c
+END
+predict.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/predict.c
+END
+quant.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/common/ppc/quant.h
+END

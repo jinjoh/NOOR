@@ -1,0 +1,103 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/gameengine
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-27T02:54:25.541712Z
+24103
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+SceneGraph
+dir
+
+Physics
+dir
+
+Expressions
+dir
+
+GamePlayer
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+bbd738da1ace7501d59e68546af1581e
+2009-09-29T21:42:40.108286Z
+23562
+campbellbarton
+has-props
+
+VideoTexture
+dir
+
+GameLogic
+dir
+
+Network
+dir
+
+Ketsji
+dir
+
+Rasterizer
+dir
+
+BlenderRoutines
+dir
+
+Converter
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+9760100dd4547ee5b46b1cc29ccd7792
+2009-08-11T18:14:49.067067Z
+22377
+ton
+has-props
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+1c49a8d8258d014c8a1b694e8277dd40
+2009-09-29T21:42:40.108286Z
+23562
+campbellbarton
+has-props
+
+PyDoc
+dir
+

@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles/gameengine/gameplayer/netscape
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+GP_netscape.dsp
+file
+
+
+
+
+2009-10-28T17:03:44.000000Z
+20c65c4898de104455c453445e21bafc
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23564/trunk/blender/source/gameengine/GamePlayer/ActiveX
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/StdAfx.h
+END
+BlenderPlayerPpg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayerPpg.cpp
+END
+BlenderPlayer.def
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.def
+END
+ReadMeBuilding.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/ReadMeBuilding.txt
+END
+SafeControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/SafeControl.cpp
+END
+MemoryResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/MemoryResource.cpp
+END
+BlenderPlayer.ico
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.ico
+END
+BlenderPlayerDuo.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayerDuo.html
+END
+splash.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/splash.bmp
+END
+BlenderPlayerCtl.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayerCtl.bmp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/StdAfx.cpp
+END
+RawImageRsrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/RawImageRsrc.h
+END
+ActiveXandNetscapeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/ActiveXandNetscapeTest.html
+END
+BlenderDataPathProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderDataPathProperty.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/resource.h
+END
+BlenderPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.h
+END
+CControlRefresher.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/CControlRefresher.h
+END
+BlenderPlayerCtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayerCtl.h
+END
+BlenderPlayerPpg.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayerPpg.h
+END
+BlenderPlayer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.rc
+END
+BlenderPlayer.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.html
+END
+BlenderPlayer.odl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.odl
+END
+SafeControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/SafeControl.h
+END
+MemoryResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/MemoryResource.h
+END
+RawImageRsrc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/RawImageRsrc.cpp
+END
+BlenderDataPathProperty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderDataPathProperty.cpp
+END
+BlenderPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.cpp
+END
+BlenderPlayer.aps
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.aps
+END
+ActiveXgp.hpj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/ActiveXgp.hpj
+END
+CControlRefresher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/CControlRefresher.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/ReadMe.txt
+END
+BlenderPlayer.clw
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayer.clw
+END
+BlenderPlayerCtl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/bf-blender/!svn/ver/23564/trunk/blender/source/gameengine/GamePlayer/ActiveX/BlenderPlayerCtl.cpp
+END

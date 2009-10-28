@@ -1,0 +1,53 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/gameengine/GamePlayer/netscape
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-29T22:49:33.326120Z
+23564
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+test
+dir
+
+src
+dir
+
+common
+dir
+
+netscape_api
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:16.000000Z
+a8fa6966665648ed62f1d77e57caf686
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

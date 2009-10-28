@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/extras
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/extras/getopt.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/extras/getopt.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/x264/extras/stdint.h
+END

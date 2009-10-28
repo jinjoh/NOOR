@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc7/gameengine/ketsji/network
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2007-03-01T20:49:44.000000Z
+10184
+ascotan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+KX_network.vcproj
+file
+
+
+
+
+2009-10-28T17:06:22.000000Z
+a74a84a2155899dbc1a7246ea18f8cbf
+2007-03-01T20:49:44.000000Z
+10184
+ascotan
+has-props
+

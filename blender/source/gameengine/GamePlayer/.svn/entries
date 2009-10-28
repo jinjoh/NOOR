@@ -1,0 +1,82 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/gameengine/GamePlayer
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-19T10:10:05.706185Z
+23940
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+netscape
+dir
+
+ActiveX
+dir
+
+ghost
+dir
+
+xembed
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:22.000000Z
+c56625699606f0258e5e61980441e098
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+has-props
+
+common
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:22.000000Z
+5f931921f4e718baff0cfc85a2578432
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:22.000000Z
+9d9747fb926b943f313dc3f69b288fed
+2008-11-12T21:16:53.478104Z
+17433
+blendix
+has-props
+

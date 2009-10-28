@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/x86_asm
+END
+idct_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/x86_asm/idct_mmx.asm
+END
+fdct_mmx_ffmpeg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/x86_asm/fdct_mmx_ffmpeg.asm
+END
+fdct_sse2_skal.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/x86_asm/fdct_sse2_skal.asm
+END
+idct_sse2_dmitry.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/x86_asm/idct_sse2_dmitry.asm
+END
+fdct_mmx_skal.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/x86_asm/fdct_mmx_skal.asm
+END
+idct_3dne.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/dct/x86_asm/idct_3dne.asm
+END

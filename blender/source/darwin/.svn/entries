@@ -1,0 +1,53 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/darwin
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-28T03:19:52.262294Z
+23513
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+blenderplayer.app
+dir
+
+blenderpublisher.app
+dir
+
+blender.app
+dir
+
+blendercreator.app
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:13.000000Z
+9128b568723b854521cacd1e6420ffc2
+2009-09-28T03:19:52.262294Z
+23513
+campbellbarton
+has-props
+

@@ -1,0 +1,118 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/audaspace
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-01T20:55:37.731119Z
+23595
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+SDL
+dir
+
+ffmpeg
+dir
+
+sndfile
+dir
+
+COPYING.LESSER
+file
+
+
+
+
+2009-10-28T17:03:58.000000Z
+b52f2d57d10c4f7ee67a7eb9615d5d24
+2009-08-09T21:16:39.341510Z
+22326
+nexyon
+
+SRC
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:03:58.000000Z
+c03fc10e1954210515ca5f75dc97099a
+2009-10-01T20:55:37.731119Z
+23595
+gsrb3d
+has-props
+
+jack
+dir
+
+COPYING
+file
+
+
+
+
+2009-10-28T17:03:58.000000Z
+d32239bcb673463ab874e80d47fae504
+2009-08-09T21:16:39.341510Z
+22326
+nexyon
+
+FX
+dir
+
+make
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:03:58.000000Z
+e897f9b4be146ba00ef6d9e90ff4258b
+2009-09-06T01:51:23.079976Z
+23026
+campbellbarton
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:03:58.000000Z
+4ffb56a78afe0c0dc2ef3b451e1f346c
+2009-08-21T22:56:26.114993Z
+22688
+bdiego
+has-props
+
+OpenAL
+dir
+

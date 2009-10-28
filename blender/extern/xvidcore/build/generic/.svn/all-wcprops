@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/build/generic
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/configure
+END
+platform.inc.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/platform.inc.in
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/build/generic/bootstrap.sh
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/configure.in
+END
+libxvidcore.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/libxvidcore.def
+END
+libxvidcore.ld
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/libxvidcore.ld
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/config.guess
+END
+sources.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/sources.inc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/build/generic/Makefile
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/build/generic/install-sh
+END

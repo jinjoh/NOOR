@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/opennl/make/msvc_6_0
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+OpenNL.dsp
+file
+
+
+
+
+2009-10-28T17:04:02.000000Z
+aefc63208ecde290784c68d25e1e7e48
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+OpenNL.dsw
+file
+
+
+
+
+2009-10-28T17:04:02.000000Z
+686ab92f9e5b308aadd97c7a79ad12fb
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+

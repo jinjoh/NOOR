@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/24041/trunk/blender/source/blender/render/intern/source
+END
+occlusion.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/occlusion.c
+END
+texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23829/trunk/blender/source/blender/render/intern/source/texture.c
+END
+rayshade.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23937/trunk/blender/source/blender/render/intern/source/rayshade.c
+END
+volume_precache.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/bf-blender/!svn/ver/24041/trunk/blender/source/blender/render/intern/source/volume_precache.c
+END
+imagetexture.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/imagetexture.c
+END
+initrender.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/initrender.c
+END
+shadeinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23794/trunk/blender/source/blender/render/intern/source/shadeinput.c
+END
+renderdatabase.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23649/trunk/blender/source/blender/render/intern/source/renderdatabase.c
+END
+shadeoutput.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/shadeoutput.c
+END
+gammaCorrectionTables.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/gammaCorrectionTables.c
+END
+pipeline.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23954/trunk/blender/source/blender/render/intern/source/pipeline.c
+END
+zbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/24016/trunk/blender/source/blender/render/intern/source/zbuf.c
+END
+rayobject_instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23763/trunk/blender/source/blender/render/intern/source/rayobject_instance.c
+END
+sss.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23570/trunk/blender/source/blender/render/intern/source/sss.c
+END
+rayobject_blibvh.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23649/trunk/blender/source/blender/render/intern/source/rayobject_blibvh.c
+END
+convertblender.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23794/trunk/blender/source/blender/render/intern/source/convertblender.c
+END
+shadbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23794/trunk/blender/source/blender/render/intern/source/shadbuf.c
+END
+pixelshading.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/pixelshading.c
+END
+rayobject_octree.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23649/trunk/blender/source/blender/render/intern/source/rayobject_octree.c
+END
+pixelblending.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/pixelblending.c
+END
+envmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/envmap.c
+END
+voxeldata.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23563/trunk/blender/source/blender/render/intern/source/voxeldata.c
+END
+rendercore.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23794/trunk/blender/source/blender/render/intern/source/rendercore.c
+END
+pointdensity.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/23317/trunk/blender/source/blender/render/intern/source/pointdensity.c
+END
+volumetric.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23937/trunk/blender/source/blender/render/intern/source/volumetric.c
+END
+strand.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23794/trunk/blender/source/blender/render/intern/source/strand.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/Makefile
+END
+sunsky.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/render/intern/source/sunsky.c
+END
+rayobject_raycounter.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/bf-blender/!svn/ver/23649/trunk/blender/source/blender/render/intern/source/rayobject_raycounter.c
+END

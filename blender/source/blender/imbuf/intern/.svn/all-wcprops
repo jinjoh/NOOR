@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23587/trunk/blender/source/blender/imbuf/intern
+END
+cspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/cspace.c
+END
+IMB_iff.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_iff.h
+END
+thumbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/thumbs.c
+END
+radiance_hdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/radiance_hdr.c
+END
+iff.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/iff.c
+END
+IMB_anim5.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_anim5.h
+END
+antialias.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/antialias.c
+END
+iris.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/iris.c
+END
+IMB_allocimbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_allocimbuf.h
+END
+anim5.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/anim5.c
+END
+IMB_amiga.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_amiga.h
+END
+IMB_cmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_cmap.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/util.c
+END
+amiga.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/amiga.c
+END
+readimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/readimage.c
+END
+scaling.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/scaling.c
+END
+IMB_anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_anim.h
+END
+IMB_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_png.h
+END
+IMB_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_filter.h
+END
+IMB_dpxcineon.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_dpxcineon.h
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/png.c
+END
+IMB_tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_tiff.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/md5.c
+END
+jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/jpeg.c
+END
+IMB_jp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_jp2.h
+END
+gen_dynlibtiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/gen_dynlibtiff.py
+END
+IMB_targa.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_targa.h
+END
+dynlibtiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/dynlibtiff.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/md5.h
+END
+jp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23176/trunk/blender/source/blender/imbuf/intern/jp2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/Makefile
+END
+rectop.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/rectop.c
+END
+divers.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23521/trunk/blender/source/blender/imbuf/intern/divers.c
+END
+hamx.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/hamx.c
+END
+writeimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/writeimage.c
+END
+rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/rotate.c
+END
+targa.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/targa.c
+END
+dynlibtiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/dynlibtiff.h
+END
+IMB_radiance_hdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_radiance_hdr.h
+END
+IMB_ham.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_ham.h
+END
+IMB_iris.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_iris.h
+END
+ham.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/ham.c
+END
+imbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/imbuf.h
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/data.c
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/matrix.h
+END
+IMB_bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_bmp.h
+END
+allocimbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/allocimbuf.c
+END
+IMB_bitplanes.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_bitplanes.h
+END
+bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/bmp.c
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/dither.c
+END
+cmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/cmap.c
+END
+IMB_jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_jpeg.h
+END
+imageprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/imageprocess.c
+END
+bitplanes.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/bitplanes.c
+END
+anim.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23189/trunk/blender/source/blender/imbuf/intern/anim.c
+END
+IMB_imginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_imginfo.h
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/filter.c
+END
+imbuf_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/imbuf_patch.h
+END
+tiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/tiff.c
+END
+imginfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/imginfo.c
+END
+IMB_divers.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_divers.h
+END
+IMB_hamx.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/imbuf/intern/IMB_hamx.h
+END

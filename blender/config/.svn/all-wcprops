@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bf-blender/!svn/ver/24111/trunk/blender/config
+END
+win32-vc-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bf-blender/!svn/ver/23437/trunk/blender/config/win32-vc-config.py
+END
+linuxcross-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23384/trunk/blender/config/linuxcross-config.py
+END
+sunos5-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/23384/trunk/blender/config/sunos5-config.py
+END
+openbsd3-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bf-blender/!svn/ver/23384/trunk/blender/config/openbsd3-config.py
+END
+win64-vc-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bf-blender/!svn/ver/23624/trunk/blender/config/win64-vc-config.py
+END
+irix6-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bf-blender/!svn/ver/23384/trunk/blender/config/irix6-config.py
+END
+linux2-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/23384/trunk/blender/config/linux2-config.py
+END
+win32-mingw-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23437/trunk/blender/config/win32-mingw-config.py
+END
+darwin-config.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/24111/trunk/blender/config/darwin-config.py
+END

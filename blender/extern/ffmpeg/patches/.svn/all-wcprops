@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/patches
+END
+ffmpeg_work_around_dv_crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/patches/ffmpeg_work_around_dv_crash.patch
+END
+ffmpeg_accel_bgra32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/patches/ffmpeg_accel_bgra32.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/patches/README
+END
+swscale_stride_bugfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/patches/swscale_stride_bugfix.patch
+END
+ffmpeg_work_around_ac3_sse2_crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/patches/ffmpeg_work_around_ac3_sse2_crash.patch
+END

@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/darwin/blenderpublisher.app/Contents/Resources
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2004-04-24T18:34:08.000000Z
+2393
+zuster
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+blender file icon.icns
+file
+
+
+
+
+2009-10-28T17:04:12.000000Z
+6afdf8aad435a2d7da5ce3354b8d393e
+2004-04-24T18:34:08.000000Z
+2393
+zuster
+has-props
+
+blender publisher icon.icns
+file
+
+
+
+
+2009-10-28T17:04:12.000000Z
+34565d42d904a3a66f0c536b1e99da17
+2004-04-24T18:34:08.000000Z
+2393
+zuster
+has-props
+

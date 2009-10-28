@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bf-blender/!svn/ver/23538/trunk/blender/extern/ffmpeg
+END
+subdir.mak
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/subdir.mak
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/configure
+END
+xvmc_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/xvmc_render.h
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bf-blender/!svn/ver/23538/trunk/blender/extern/ffmpeg/SConscript
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/COPYING
+END
+ffmpeg-update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/ffmpeg/ffmpeg-update.sh
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/CREDITS
+END
+berrno.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/berrno.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/Makefile
+END

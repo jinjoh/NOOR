@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/tools/guess
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+config.guess
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+34101ed5b91d2dc3affe2492cc54fd62
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+guessconfig
+file
+
+
+
+
+2009-10-28T17:04:31.000000Z
+9afcab4eb4f4a193c869b3a55222d0f8
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

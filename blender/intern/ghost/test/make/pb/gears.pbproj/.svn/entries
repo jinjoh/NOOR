@@ -1,0 +1,41 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/ghost/test/make/pb/gears.pbproj
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2002-10-12T12:32:08.000000Z
+6
+hans
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+project.pbxproj
+file
+
+
+
+
+2009-10-28T17:03:51.000000Z
+338a44eee64320d52a1db449f9d5bb0d
+2002-10-12T12:32:08.000000Z
+6
+hans
+has-props
+

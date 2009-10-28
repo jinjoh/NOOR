@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm
+END
+interpolate8x8_3dn.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/interpolate8x8_3dn.asm
+END
+qpel_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/qpel_mmx.asm
+END
+postprocessing_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/postprocessing_mmx.asm
+END
+colorspace_mmx.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/colorspace_mmx.inc
+END
+colorspace_rgb_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/colorspace_rgb_mmx.asm
+END
+colorspace_yuyv_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/colorspace_yuyv_mmx.asm
+END
+gmc_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/gmc_mmx.asm
+END
+interpolate8x8_3dne.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/interpolate8x8_3dne.asm
+END
+deintl_sse.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/deintl_sse.asm
+END
+reduced_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/reduced_mmx.asm
+END
+colorspace_yuv_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/colorspace_yuv_mmx.asm
+END
+postprocessing_sse2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/postprocessing_sse2.asm
+END
+interpolate8x8_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/interpolate8x8_mmx.asm
+END
+interpolate8x8_xmm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/image/x86_asm/interpolate8x8_xmm.asm
+END

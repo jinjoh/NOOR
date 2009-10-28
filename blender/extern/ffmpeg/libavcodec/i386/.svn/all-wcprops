@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/i386
+END
+fft_mmx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/i386/fft_mmx.asm
+END
+dsputil_yasm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/i386/dsputil_yasm.asm
+END
+x86inc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/i386/x86inc.asm
+END

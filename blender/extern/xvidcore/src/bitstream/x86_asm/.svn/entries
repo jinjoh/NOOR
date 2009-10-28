@@ -1,0 +1,52 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/xvidcore/src/bitstream/x86_asm
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-08-19T09:35:22.597848Z
+22626
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+cbp_sse2.asm
+file
+
+
+
+
+2009-10-28T17:05:25.000000Z
+8b8bacae0d74148004c9f662074493ca
+2009-08-19T09:35:22.597848Z
+22626
+blendix
+
+cbp_mmx.asm
+file
+
+
+
+
+2009-10-28T17:05:25.000000Z
+e9a11e4b3b5f106463b825c036885a9f
+2009-08-19T09:35:22.597848Z
+22626
+blendix
+

@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/container/intern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-01-07T19:13:47.953844Z
+13161
+hos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+CTR_List.cpp
+file
+
+
+
+
+2009-10-28T17:03:48.000000Z
+282107640eed7d42ccb97a001417c9b3
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:03:48.000000Z
+e5cf84298bd2abba4c3dc280f2e548e6
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

@@ -1,0 +1,50 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles/gameengine/physics/PHY_Physics
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+PHY_Sumo
+dir
+
+PHY_Ode
+dir
+
+PHY_Physics.dsp
+file
+
+
+
+
+2009-10-28T17:03:43.000000Z
+6796af166a9554f7349fad43eacdb62a
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+PHY_Dummy
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/iksolver/make/msvc_6_0
+END
+iksolver.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/iksolver/make/msvc_6_0/iksolver.dsp
+END
+iksolver.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/iksolver/make/msvc_6_0/iksolver.dsw
+END

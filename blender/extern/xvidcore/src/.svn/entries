@@ -1,0 +1,168 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/xvidcore/src
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+plugins
+dir
+
+image
+dir
+
+decoder.c
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+9e47768e028aed77fa9ea023a1629879
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+global.h
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+085477b15cc2e1b5aa20b5767bfb34f4
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+quant
+dir
+
+bitstream
+dir
+
+decoder.h
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+ac1f65fc4561c3793f2e2d15045bc282
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+xvid.c
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+ad41e721a724402fc8a09abefa74dd06
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+xvid.h
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+7ebcbb7e0a60ee686e69aa405d3b3395
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+encoder.c
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+6eb78891f8e0f03c0bf66006feb3a551
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+prediction
+dir
+
+utils
+dir
+
+encoder.h
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+ac79cc029123efa5ddda83ef8c1727c3
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+
+motion
+dir
+
+nasm.inc
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+03862ec7f12945dcc3702c0e22b1c4e4
+2009-08-19T09:35:22.597848Z
+22626
+blendix
+
+dct
+dir
+
+portab.h
+file
+
+
+
+
+2009-10-28T17:05:28.000000Z
+5c12722d6628bd3afefe00ae42660b8e
+2009-09-22T19:09:04.813038Z
+23425
+gsrb3d
+has-props
+

@@ -1,0 +1,105 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles/blender
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+avi
+dir
+
+render
+dir
+
+blenkernel
+dir
+
+makesdna
+dir
+
+src
+dir
+
+blenpluginapi
+dir
+
+yafray
+dir
+
+BPY_python
+dir
+
+ftfont
+dir
+
+blender.dsp
+file
+
+
+
+
+2009-10-28T17:03:45.000000Z
+7502bae8ce26631bcda7de0eac86af91
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+imbuf
+dir
+
+loader
+dir
+
+renderconverter
+dir
+
+blenlib
+dir
+
+radiosity
+dir
+
+blender.dsw
+file
+
+
+
+
+2009-10-28T17:03:45.000000Z
+56ed4287cd7b8dec78d00d86fe565816
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+BLO_readblenfile
+dir
+
+glut
+dir
+
+img
+dir
+

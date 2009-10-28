@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/test/stub
+END
+TST_stubbed_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/test/stub/TST_stubbed_app.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/GamePlayer/netscape/test/stub/Makefile
+END

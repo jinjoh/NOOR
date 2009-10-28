@@ -1,0 +1,70 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/ghost/test/gears
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-01-07T19:13:47.953844Z
+13161
+hos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+GHOST_C-Test.c
+file
+
+
+
+
+2009-10-28T17:03:49.000000Z
+a3afdd9a5e06086cc0b10ab91a97bf26
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+
+GHOST_Test.cpp
+file
+
+
+
+
+2009-10-28T17:03:49.000000Z
+fc8aed34c1d32f808029f40ae051bf76
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+
+resources
+dir
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:03:49.000000Z
+1cdad920184db56b2348288d9b76e9a5
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

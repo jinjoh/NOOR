@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/ghost/make/msvc_7_0
+END
+ghost.sln
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/ghost/make/msvc_7_0/ghost.sln
+END
+ghost.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/intern/ghost/make/msvc_7_0/ghost.vcproj
+END

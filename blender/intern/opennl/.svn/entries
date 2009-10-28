@@ -1,0 +1,82 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/opennl
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-08-14T13:13:36.467124Z
+22452
+campbellbarton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+intern
+dir
+
+superlu
+dir
+
+doc
+dir
+
+extern
+dir
+
+SConscript
+file
+
+
+
+
+2009-10-28T17:04:02.000000Z
+a62e4983c32da55d3aef6fa9164790d3
+2009-03-17T21:44:58.713628Z
+19323
+blendix
+has-props
+
+make
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2009-10-28T17:04:02.000000Z
+0d1b856305be2df331e8a630cb05d5d9
+2009-04-20T15:06:46.913736Z
+19820
+blendix
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:02.000000Z
+6d2d0bf28a89efaf744c3aa3f443730c
+2009-03-19T01:50:45.273516Z
+19330
+hos
+has-props
+

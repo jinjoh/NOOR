@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bf-blender/!svn/ver/24140/trunk/blender/source/blender/editors/datafiles
+END
+prvicons.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/datafiles/prvicons.c
+END
+B.blend.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/24140/trunk/blender/source/blender/editors/datafiles/B.blend.c
+END
+bfont.ttf.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/datafiles/bfont.ttf.c
+END
+preview.blend.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/datafiles/preview.blend.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23587/trunk/blender/source/blender/editors/datafiles/SConscript
+END
+Bfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/datafiles/Bfont.c
+END
+blenderbuttons.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/bf-blender/!svn/ver/23862/trunk/blender/source/blender/editors/datafiles/blenderbuttons.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/datafiles/Makefile
+END
+bmonofont.ttf.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/blender/editors/datafiles/bmonofont.ttf.c
+END
+splash.png.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bf-blender/!svn/ver/23264/trunk/blender/source/blender/editors/datafiles/splash.png.c
+END

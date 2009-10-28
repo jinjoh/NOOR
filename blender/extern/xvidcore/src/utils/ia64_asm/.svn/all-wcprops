@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/utils/ia64_asm
+END
+mem_transfer_ia64.s
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/src/utils/ia64_asm/mem_transfer_ia64.s
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/projectfiles_vc9/blender/radiosity
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2008-11-16T16:53:37.484602Z
+17474
+elubie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+BRA_radiosity.vcproj
+file
+
+
+
+
+2009-10-28T17:06:25.000000Z
+cecbf12cda150c24486b656084d8cf37
+2008-11-16T16:53:37.484602Z
+17474
+elubie
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/sparc
+END
+dsputil_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/sparc/dsputil_vis.c
+END
+vis.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/sparc/vis.h
+END
+simple_idct_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/ffmpeg/libavcodec/sparc/simple_idct_vis.c
+END

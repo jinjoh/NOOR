@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/23595/trunk/blender/source/gameengine/PyDoc
+END
+Rasterizer.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/PyDoc/Rasterizer.py
+END
+GameTypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23463/trunk/blender/source/gameengine/PyDoc/GameTypes.py
+END
+bge_api_validate_py.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/PyDoc/bge_api_validate_py.txt
+END
+epy_docgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/PyDoc/epy_docgen.sh
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23595/trunk/blender/source/gameengine/PyDoc/SConscript
+END
+API_intro.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/PyDoc/API_intro.py
+END
+GameKeys.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/PyDoc/GameKeys.py
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/PyDoc/.cvsignore
+END
+GameLogic.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/source/gameengine/PyDoc/GameLogic.py
+END

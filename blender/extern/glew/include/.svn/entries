@@ -1,0 +1,31 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/glew/include
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-10-26T10:19:25.690541Z
+24083
+damien78
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+GL
+dir
+

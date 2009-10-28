@@ -1,0 +1,40 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/extern/xvidcore/src/quant/ia64_asm
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-08-19T09:35:22.597848Z
+22626
+blendix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+quant_h263_ia64.s
+file
+
+
+
+
+2009-10-28T17:05:25.000000Z
+913d2a84ec13c1be02b7b71b079cd055
+2009-08-19T09:35:22.597848Z
+22626
+blendix
+

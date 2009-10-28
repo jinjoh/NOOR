@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins
+END
+plugin_lumimasking.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_lumimasking.c
+END
+plugin_ssim.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_ssim.h
+END
+plugin_single.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_single.c
+END
+plugin_psnr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_psnr.c
+END
+plugin_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_dump.c
+END
+plugin_2pass1.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_2pass1.c
+END
+plugin_2pass2.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_2pass2.c
+END
+plugin_ssim.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/23425/trunk/blender/extern/xvidcore/src/plugins/plugin_ssim.c
+END

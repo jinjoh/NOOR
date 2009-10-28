@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/intern/string/intern
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-06-29T19:46:28.254286Z
+21241
+gsrb3d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+STR_String.cpp
+file
+
+
+
+
+2009-10-28T17:04:05.000000Z
+9c3a9a33d127be61da14529b9739f9b3
+2009-06-29T19:46:28.254286Z
+21241
+gsrb3d
+has-props
+
+Makefile
+file
+
+
+
+
+2009-10-28T17:04:05.000000Z
+3b4a87f3ec61b8411cc6ce09936588f3
+2008-01-07T19:13:47.953844Z
+13161
+hos
+has-props
+

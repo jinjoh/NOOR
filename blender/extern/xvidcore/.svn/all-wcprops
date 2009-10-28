@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bf-blender/!svn/ver/23595/trunk/blender/extern/xvidcore
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/AUTHORS
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bf-blender/!svn/ver/23595/trunk/blender/extern/xvidcore/SConscript
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bf-blender/!svn/ver/23147/trunk/blender/extern/xvidcore/README
+END

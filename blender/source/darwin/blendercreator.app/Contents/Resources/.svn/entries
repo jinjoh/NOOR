@@ -1,0 +1,54 @@
+8
+
+dir
+24140
+https://svn.blender.org/svnroot/bf-blender/trunk/blender/source/darwin/blendercreator.app/Contents/Resources
+https://svn.blender.org/svnroot/bf-blender
+
+
+
+2009-05-21T13:39:47.349942Z
+20317
+broken
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+954f8c5b-7b00-dc11-b283-0030488c597c
+
+blender creator icon.icns
+file
+
+
+
+
+2009-10-28T17:04:13.000000Z
+9b418cbf99e4e2956452c38a770781d2
+2009-05-21T13:39:47.349942Z
+20317
+broken
+has-props
+
+blender file icon.icns
+file
+
+
+
+
+2009-10-28T17:04:13.000000Z
+c72881621da15c997446d53f506aa4db
+2009-05-21T13:39:47.349942Z
+20317
+broken
+has-props
+
